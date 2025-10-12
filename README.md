@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rkg20
+- 👋 Hi, I’m Rahul Gupta
 - 👀 I’m interested in Web development and Android development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Andriod Project as well as Full Stack Project.
-- 📫 My Gmail: rkgdec2000@gmail.com
+- 💞️ I’m open to collaborating on backend and full-stack projects, particularly those involving Java, Spring Boot, and Microservices.
+- 📫 My Gmail: rahulgupta1046@gmail.com 
 
 <!---
 rkg20/rkg20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
